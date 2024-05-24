@@ -14,6 +14,9 @@ Ensure you have the following installed:
   - **bat:** `brew install bat`
   - **lsd:** `brew install lsd`
 
+- **Terminal Emulator:**
+  - **Alacritty:** `brew install alacritty`
+
 ## Installation
 
 1. Clone the dotfiles repo:
