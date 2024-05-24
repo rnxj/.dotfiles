@@ -8,6 +8,12 @@ Ensure you have the following installed:
   - **Git:** `brew install git`
   - **Stow:** `brew install stow`
 
+- **Shell Configuration:**
+  - **fzf:** `brew install fzf`
+  - **zoxide:** `brew install zoxide`
+  - **bat:** `brew install bat`
+  - **lsd:** `brew install lsd`
+
 ## Installation
 
 1. Clone the dotfiles repo:
