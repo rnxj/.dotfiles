@@ -1,0 +1,10 @@
+# Misc
+.DS_Store
+
+
+# Nvim Config Specific
+tags
+test.sh
+.luarc.json
+spell/
+lazy-lock.json
