@@ -1,2 +1,2 @@
-require("rnxj.core.options")
-require("rnxj.core.keymaps")
+require 'rnxj.core.options'
+require 'rnxj.core.keymaps'

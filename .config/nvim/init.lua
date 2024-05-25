@@ -1,2 +1,2 @@
-require("rnxj.core")
-require("rnxj.lazy")
+require 'rnxj.core'
+require 'rnxj.lazy'
