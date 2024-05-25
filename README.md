@@ -13,6 +13,7 @@ Ensure you have the following installed:
   - **zoxide:** `brew install zoxide`
   - **bat:** `brew install bat`
   - **lsd:** `brew install lsd`
+  - **nvm:** `brew install nvm && source $(brew --prefix nvm)/nvm.sh`
 
 - **Terminal Emulator:**
   - **Alacritty:** `brew install alacritty`
