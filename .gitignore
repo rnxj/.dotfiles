@@ -8,3 +8,8 @@ test.sh
 .luarc.json
 spell/
 lazy-lock.json
+
+
+# TMUX plugins
+.config/tmux/plugins
+
