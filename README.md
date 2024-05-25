@@ -22,6 +22,11 @@ Ensure you have the following installed:
   - **TMUX:** `brew install tmux` 
   - **TPM:** `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
+- **Code Editor:**
+  - **Neovim:** `brew install neovim`
+  - **ripgrep:** `brew install ripgrep`
+  - **node:** `nvm install --lts && nvm use --lts`
+
 ## Installation
 
 1. Clone the dotfiles repo:
