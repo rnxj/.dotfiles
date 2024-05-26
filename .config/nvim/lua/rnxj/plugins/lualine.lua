@@ -8,6 +8,7 @@ return {
     -- configure lualine with modified theme
     lualine.setup {
       options = {
+        disabled_filetypes = { 'packer', 'NvimTree' },
         theme = 'catppuccin',
       },
       sections = {
